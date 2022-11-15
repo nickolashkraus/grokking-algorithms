@@ -1,3 +1,3 @@
-module github.com/NickolasHKraus/grokking-algorithms
+module github.com/nickolashkraus/grokking-algorithms
 
 go 1.17
